@@ -1,2 +1,3 @@
-# QRNG-Analysis
-QRNG Electron tunneling diode analysis
+# Quantum Random Number Generator 
+QRNG Electron tunneling diode
+Cryptographically secure

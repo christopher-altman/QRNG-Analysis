@@ -1,2 +1,2 @@
-# Quantum Random Number Generator (qRNG)
+# Quantum Random Number Generator 
 Cryptographically secure electron tunneling diode

@@ -1,2 +1,2 @@
 # Quantum Random Number Generator 
-Cryptographically secure electron tunneling diode
+Cryptographically-secure high-throughputt electron tunneling diode
